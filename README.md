@@ -1,2 +1,2 @@
 # RepositorioTeste
-Área reservada ao DESCRIÇÃO do repositório
+Repositório teste, destinado a minha prática com o github descktop
