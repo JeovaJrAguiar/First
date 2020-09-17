@@ -1,7 +1,8 @@
-# RepositorioTeste
-Repositório teste, destinado a minha prática com o github descktop
-Esse é o terceiro commit 11:23 am
-## teste linha do leia-me
-## teste linha do leia-me
-## teste linha do leia-me
-## teste linha do leia-me
+# Welcome to my personal page
+  I recently met and identified a lot with the Git philosophy, I am an eternal student, and I intend to leave directories containing scripts, pages, htmls, apps and more so that you can study and improve them. I am leaving the contents from the simplest to the most complex studied by me at the ufc (and beyond). I'm posting little by little, my time is short.
+## WEB
+## MOBILE
+## GAMES
+## UFC_C
+## UFC_PYTHON
+## UFC_IOT's
